@@ -1,1 +1,1 @@
-worker: python2 "truthordare_telebot.py"
+worker: python3 "truthordare_telebot.py"
