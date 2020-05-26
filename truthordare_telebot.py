@@ -12,7 +12,7 @@ from telebot import types
 
 import random
 
-token = '' #fill up with your token
+token = '1284275711:AAF-oKcZoXuIB2CgQ2WmRfzkhrLI2jBz0DA' #fill up with your token
 
 tele_bot = telebot.TeleBot(token) # using telebot wrapper
 tele_bot_updates = tele_bot.get_updates()
