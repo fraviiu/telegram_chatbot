@@ -1,1 +1,1 @@
-worker: python "bot.py"
+worker: python "truthordare_telebot.py"
